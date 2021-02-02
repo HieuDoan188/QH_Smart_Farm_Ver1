@@ -1,0 +1,7 @@
+pack    : arrange widgets on the screen
+grid    : register widgets with the underlying windowing system
+place   : manage the display of widgets on the screen
+
+ipadx, ipady − How many pixels to pad widget, horizontally and vertically, inside widget's borders.
+padx, pady − How many pixels to pad widget, horizontally and vertically, outside v's borders.
+

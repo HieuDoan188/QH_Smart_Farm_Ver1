@@ -12,7 +12,7 @@ void setup() {
 }
 
 void loop() {
-  // see if there's incoming serial data:
+    // see if there's incoming serial data:
   if (Serial.available() > 0) {
     // read the oldest byte in the serial buffer:
     incomingByte = Serial.read();
